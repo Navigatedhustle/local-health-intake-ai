@@ -1,6 +1,6 @@
 ---
 
-## Run it yourself
+# Run it yourself
 
 **Prerequisites:** [Python 3.11+](https://www.python.org/downloads/), [Ollama](https://ollama.com), and [Git](https://git-scm.com/).
 
